@@ -1,4 +1,4 @@
-import '../style.css'
+import '../style.scss'
 import {NextPage} from 'next';
 
 function MyApp({ Component, pageProps }:

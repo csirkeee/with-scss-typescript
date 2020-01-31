@@ -1,4 +1,4 @@
-import css from './hello-world.module.css'
+import css from './hello-world.module.scss'
 
 export default () => (
   <div className={css.hello}>
